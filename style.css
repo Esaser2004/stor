@@ -38,6 +38,7 @@ nav a:hover {
     background-position: center;
     color: #110505;
     text-align: center;
+    height: 100vh;
 }
 
 .hero-section h1 {
